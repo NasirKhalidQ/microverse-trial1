@@ -15,3 +15,21 @@
   margin: 0px;
   margin-bottom: 1rem;
 }
+
+.tributeInfo {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#img-div {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+#image {
+  max-width: 100%;
+}
